@@ -5,7 +5,7 @@ A smart parking system built using **C++ (backend)** and a **web-based dashboard
 ---
 
 ## 🌐 Live Demo
-👉 https://advaitchitale31.github.io/Smart-Parking-System/
+👉https://advaitchitale31.github.io/smart-parking-systems/
 
 ---
 
